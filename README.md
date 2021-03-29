@@ -1,11 +1,6 @@
 # Chat Application
-Simple chat app with java socket
 
-## Table of Contents
-* [Requirements](#requirements)
-* [Installation](#installation)
-* [How To Use](#how-to-use)
-* [Screenshots](#screenshots)
+Simple chat app with java socket
 
 ## Requirements
 * [JDK 8 or newer](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
